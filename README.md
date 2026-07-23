@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 <!--
 **yjs0601/yjs0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
